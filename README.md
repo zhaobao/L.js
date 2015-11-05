@@ -1,6 +1,6 @@
 # L.js
 
-An simple extension for browser build in console.log, which can print call stack!!
+A simple extension for browser build in console.log, which can print call stack!!
 
 # How to use
 ```
