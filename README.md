@@ -7,4 +7,8 @@ A simple extension for browser build in console.log, which can print call stack!
 <script src="l.js"></script>
 L.d('any message');
 ```
-# Enjoy
+
+# Demo
+![img](demo.png)
+
+# Next, Enjoy
