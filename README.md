@@ -9,6 +9,7 @@ L.d('any message');
 ```
 
 # Demo
+[file name]->[line number]->[function name]: Your Message
 ![img](demo.png)
 
 # Next, Enjoy
